@@ -1,5 +1,6 @@
 # Philosophy, Politics and Economics
 This is the course structure for PPE by Oxford University. 
+https://www.ppe.ox.ac.uk/sitefiles/course-descriptions-for-all-ppe-papers-at-24-june-2024.pdf
 
 # Introduction
 ## Philosophy
